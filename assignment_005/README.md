@@ -1,6 +1,6 @@
 # assignment_005: Activation Functions
 Activation functions are mathematical equations that determine the output of a neural network. The function is attached to each neuron in the network, and determines whether it 
-should be activated (“fired”) or not, based on whether each neuron’s input is relevant for the model’s prediction. The task is to build the following activation function from 
+should be activated, 'fired' or not, based on whether each neuron’s input is relevant for the model’s prediction. The task is to build the following activation function from 
 scratch using pytorch tensors.
 
 ## 1. Sigmoid
@@ -37,3 +37,7 @@ each target class over all possible target classes. Later the calculated probabi
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;f(x_{j})=\frac{e^{x_{j}}}{\sum_{k=1}^{K}{e^{x_{k}}}" title="relu equation" />. 
 
+## Prerequisites:
+1. Python, Pytorch
+2. Neural Network Architecture
+3. Forward Pass and Activation functions
