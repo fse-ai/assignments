@@ -12,3 +12,8 @@ Note that here the the labels are one-hot encoded vectors. It can be expressed a
 
 This loss is a very good measure of how distinguishable two discrete probability distributions are from each other. Note that ti is the one hot encoded target and yi is the output which is a sigmoid function. The minus sign in CE 
 ensures that the loss gets smaller when the distributions get closer to each other.
+
+## Prerequisites:
+1. Python, NumPy
+2. Training Neural Network Models
+3. Loss Function
