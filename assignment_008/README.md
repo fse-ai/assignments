@@ -1,4 +1,4 @@
-#assignment_008: Solving FashionMNIST using Neural Nets
+# assignment_008: Solving FashionMNIST using Neural Nets
 The task is to construct a Neural Network model, train the model on the FashionMNIST data set to be able to classify images into the different categories using PyTorch.
 ![](https://github.com/hanoonaR/fseai_image_collection/blob/master/fmnist_input.JPG)
 
