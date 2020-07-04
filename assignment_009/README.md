@@ -12,3 +12,7 @@ The task is to construct a CovNet, train the CNN on the CIFAR-10 data set to be 
 6. Update the parameters
 
 ![](https://github.com/hanoonaR/fseai_image_collection/blob/master/assgn9_output.png)
+
+## Prerequisites
+1. Python, PyTorch
+2. Convolutional Neural Networks (FSEai CV Module 5)
