@@ -20,3 +20,7 @@ If you find trouble in obtaining the URL’s, you can try these commands..
     hiddenElement.click();
 
 The next step is to create directory and upload the obtained URLs text file into your server. You then create folders for each class. Now you will need to download your images from their respective URLs. 
+
+Here is a sample visualization of datasets we created for a binary classifation of "Bees" and "Ants" from Google Images
+
+![](https://github.com/hanoonaR/fseai_image_collection/blob/master/assign10.png)
