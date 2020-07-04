@@ -1,4 +1,4 @@
-# assignment_006:Categorical Cross EntropynLoss
+# assignment_006:Categorical Cross Entropy Loss
 
 The task is to build a function for computing the Cross Entroy for a multi class classification problem from Scratch using numpy. 
 
