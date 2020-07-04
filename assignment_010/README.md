@@ -24,3 +24,6 @@ The next step is to create directory and upload the obtained URLs text file into
 Here is a sample visualization of datasets we created for a binary classifation of "Bees" and "Ants" from Google Images
 
 ![](https://github.com/hanoonaR/fseai_image_collection/blob/master/assign10.png)
+
+## Prerequisites
+1. Python, PyTorch
