@@ -1,6 +1,6 @@
 # assignments
 
-![](https://github.com/hanoonaR/fseai_image_collection/blob/master/fseailogo.JPG)
+![](https://github.com/hanoonaR/fseai_image_collection/blob/master/fseailogo%20-%20Copy.JPG)
 
 All the assignments for capsule degree
 
