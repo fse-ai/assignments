@@ -11,3 +11,7 @@ The task is to construct a Neural Network model, train the model on the FashionM
 6. Update the parameters(weights and bias)
 
 ![](https://github.com/hanoonaR/fseai_image_collection/blob/master/fmnist_output.JPG)
+
+## Prerequisites
+1. Python, PyTorch
+2. Training Neural Networks (FSEai CV Module 4)
