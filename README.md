@@ -1,8 +1,7 @@
 # assignments
+This repository contains all the assignments for FSEai capsule degree
+![](https://github.com/hanoonaR/fseai_image_collection/blob/master/fseai.png)
 
-![](https://github.com/hanoonaR/fseai_image_collection/blob/master/fseailogo%20-%20Copy.JPG)
-
-All the assignments for capsule degree
 
 1. [ assignment_001: Image Processing](https://github.com/hanoonaR/assignments/tree/master/assignment_001)
 2. [assignment_002: Image Classifcation Using FSEai Vision Functions](https://github.com/hanoonaR/assignments/tree/master/assignment_002)
