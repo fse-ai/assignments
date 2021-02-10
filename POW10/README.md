@@ -32,7 +32,7 @@ All the values in between the input layer and the output layer is our hidden lay
 
 This configuration can have any  number of layers.
 
-![network in this example](images\SimpleNetwork.gif)
+![network in this example](images/SimpleNetwork.gif)
 
 **Output**
 
